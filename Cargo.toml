@@ -1,5 +1,5 @@
 [package]
-name = "cost-estimator"
+name = "zero2prod"
 version = "0.1.0"
 authors = ["Hieu Le"]
 edition = "2021"
@@ -9,7 +9,7 @@ path = "src/lib.rs"
 
 [[bin]]
 path = "src/main.rs"
-name = "cost-estimator"
+name = "zero2prod"
 
 
 [dependencies]
